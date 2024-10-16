@@ -1,2 +1,3 @@
 # Projeto-de-Dados
-Projeto cpm
+Projeto com manipulação de dados utilizando pandas
+
